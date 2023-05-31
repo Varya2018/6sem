@@ -42,3 +42,37 @@
 
 Ready - процесс готов к выполнению, они ждут процессорное время
 Running - выполняется весь квант времени, либо пока не будет вытеснен более приоритетной задачей. Остановленный процесс(Stopped)
+
+Задение 5
+
+![Screenshot_43](https://github.com/Varya2018/6sem/assets/97594244/88de16b2-c834-40d7-b54c-7974ce4ecfba)
+![Screenshot_44](https://github.com/Varya2018/6sem/assets/97594244/2269d332-9c23-4046-8179-21acddd6db65)
+![Screenshot_45](https://github.com/Varya2018/6sem/assets/97594244/60a4e747-f780-4059-b067-6e7bad7eae49)
+![Screenshot_46](https://github.com/Varya2018/6sem/assets/97594244/f0e9aef3-9834-4d50-9bb2-9234a222fa70)
+![Screenshot_47](https://github.com/Varya2018/6sem/assets/97594244/9ce10109-c3a6-4d1b-83b5-2d9396f0a6dd)
+![Screenshot_48](https://github.com/Varya2018/6sem/assets/97594244/2e359060-dcbf-460d-b420-fde051b7a30f)
+![Screenshot_49](https://github.com/Varya2018/6sem/assets/97594244/a90be2aa-667f-4ac7-9e1c-74fd63318571)
+![Screenshot_50](https://github.com/Varya2018/6sem/assets/97594244/a7a44bb9-57a3-4f95-9d69-f1b683f28d00)
+![Screenshot_51](https://github.com/Varya2018/6sem/assets/97594244/8faf7364-8015-4b18-a0a9-3946d9bf3ac8)
+![Screenshot_52](https://github.com/Varya2018/6sem/assets/97594244/05e9df8c-095c-4f9f-a76e-5216b921eb1f)
+![139705761-fe527094-819e-4bbd-abfc-451ca3198360](https://github.com/Varya2018/6sem/assets/97594244/13e2b868-8aae-45f6-8e59-1e16ba602b9e)
+
+
+
+Задание 6
+![Screenshot_21](https://github.com/Varya2018/6sem/assets/97594244/aa195226-bf0c-467e-b9bd-a1e0fb9242ee)
+![Screenshot_22](https://github.com/Varya2018/6sem/assets/97594244/1f8d3cca-2602-4a09-993d-f9700eba66a4)
+![Screenshot_23](https://github.com/Varya2018/6sem/assets/97594244/2d105e2b-e7a0-4ed0-85a2-4cd4d59fba5b)
+![Screenshot_24](https://github.com/Varya2018/6sem/assets/97594244/c71e83bb-1b68-4d85-91b3-7c89d5b05e5c)
+![Screenshot_25](https://github.com/Varya2018/6sem/assets/97594244/77db32fe-8a5d-45cc-8a25-629d4716d0b8)
+![Screenshot_26](https://github.com/Varya2018/6sem/assets/97594244/70aa5b3e-1b0d-4fc2-a564-388c63e4288d)
+![Screenshot_27](https://github.com/Varya2018/6sem/assets/97594244/3998972b-bc93-46d3-83e5-3673b9b64e67)
+![Screenshot_33](https://github.com/Varya2018/6sem/assets/97594244/fa998234-5371-4c12-a1c0-7ca9388c81ca)
+![Screenshot_34](https://github.com/Varya2018/6sem/assets/97594244/143598b4-b609-4a1d-8e4a-72efc1f2eef1)
+![Screenshot_35](https://github.com/Varya2018/6sem/assets/97594244/55ef405b-65a7-4271-9983-25156d4bd1b9)
+![Screenshot_36](https://github.com/Varya2018/6sem/assets/97594244/40f7e664-4b13-43c3-aa6a-56e2128b76c6)
+![Screenshot_37](https://github.com/Varya2018/6sem/assets/97594244/43b00860-44c8-43fe-b6bd-679041649055)
+![Screenshot_38](https://github.com/Varya2018/6sem/assets/97594244/9990f92f-6cd6-47ad-a49a-1a46138f7eaa)
+![Screenshot_39](https://github.com/Varya2018/6sem/assets/97594244/79bddc14-f20a-47a8-866e-c81f38e99c17)
+![Screenshot_41](https://github.com/Varya2018/6sem/assets/97594244/7a7ccdf6-64b9-473c-8133-7ec7c7b3d27a)
+![Screenshot_42](https://github.com/Varya2018/6sem/assets/97594244/154088d0-0295-4056-936c-6428b2fb72d8)
